@@ -24,9 +24,13 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=000)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnshJaiswal26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnshJaiswal26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshJaiswal26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=AnshJaiswal26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=AnshJaiswal26&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshJaiswal26&theme=tokyonight&hide_border=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
